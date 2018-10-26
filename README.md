@@ -1,7 +1,7 @@
 # HashHacks3_NdimensionalBIT
 # Project Name: Automated Depression Detection (ADDE)
 # Theme: Healthcare
-Automating the process of tackling Depression using the help of Machine Learning. <br>
+Automating the process of tackling Depression with the help of Machine Learning. <br>
 
 ## Abstract
 
