@@ -34,7 +34,7 @@ Twitter Sentiment Analysis Dataset has been taken.<br>
  Data -Pre-processing <br>
 ->For fixing the corrupted files we used SOX [Sound Extension] through system programming<br>
 ->And then the using the transcript file we removed the voice of virtual interviewer.<br>
-Data preprocessing is done using <b>Automate_Trimming.ipynb<b> file.<br>
+Data preprocessing is done using <b>Automate_Trimming.ipynb</b> file.<br>
 
 Methodology<br>
 Audio Analysis<br>
