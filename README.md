@@ -5,7 +5,7 @@ Automating the process of tackling Depression with the help of Machine Learning.
 
 ## Abstract
 
-Depression is a common mental disorder that causes people to experience <br>
+<b>Depression is a common mental disorder that causes people to experience</b> <br>
 ->depressed mood<br>
 ->loss of interest or pleasure<br>
 ->feelings of guilt or low self-worth<br>
