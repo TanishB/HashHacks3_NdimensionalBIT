@@ -1,9 +1,9 @@
 # HashHacks3_NdimensionalBIT
-# Project Name: Automated Depression Detection (ADDE)
-# Theme: Healthcare
+## Project Name: Automated Depression Detection (ADDE)
+## Theme: Healthcare
 <b>Automating the process of tackling Depression with the help of Machine Learning</b> <br>
 
-## Abstract
+# Abstract
 
 Depression is a common mental disorder that causes people to experience <br>
 ->depressed mood<br>
