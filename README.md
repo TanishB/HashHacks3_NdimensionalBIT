@@ -31,7 +31,7 @@ Data has been taken from DAIC-WOZ database which contains 189 clinical interview
 For Text Analysis:<br>
 Twitter Sentiment Analysis Dataset has been taken.<br>
 
-## Data -Pre-processing <br>
+## Data Pre-processing <br>
 ->For fixing the corrupted files we used SOX [Sound Extension] through system programming<br>
 ->And then using the transcript file we removed the voice of virtual interviewer.<br>
 Data preprocessing is done using <b>Automate_Trimming.ipynb</b> file.<br>
@@ -45,6 +45,6 @@ So finally we have spectrograms and labels of each audio file.<br>
 Finally we pass these into the Convolution Neural Network.<br>
 
 ## Text Analysis:<br>
-Twitter sentiment dataset is taken and with the help of the natural language processing the classification is done and the emotion of the speech is classified .
+Twitter sentiment dataset is taken and with the help of the natural language processing the classification is done and the emotion of the speech is classified.
 
 
