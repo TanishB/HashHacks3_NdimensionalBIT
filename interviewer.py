@@ -15,7 +15,7 @@ weight = 'model3.h5'
 with open(os.path.join(model_path,model), 'r') as f:
 	loaded_model_json = f.read()
 loaded_model = model_from_json(loaded_model_json)
-loaded_model.load_weights(os.path.join(model_path,weight)
+loaded_model.load_weights(os.path.join(model_path,weight))
 loaded_model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
 
 
