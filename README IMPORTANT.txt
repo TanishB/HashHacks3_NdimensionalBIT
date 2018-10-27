@@ -2,9 +2,11 @@ How to Install:
 
 1. Install python 3.6 or more from the link https://www.python.org/downloads/.
 
-2. Open command line from the directory where the zip file is downloaded.
+2. Install all the dependencies using install.py.
 
-3. Simply type python interviewer.py to run the virtual interviewer.
+	a. Open command line from the directory where the zip file is downloaded.
+
+	b. Simply type python install.py, after its finished, type interviewer.py to run the virtual interviewer.
 
 
 Note:
