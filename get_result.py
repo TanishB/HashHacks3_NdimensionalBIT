@@ -20,15 +20,12 @@ filepath2="C:\\Users\\Deii\\Downloads\\manus\\model3.h5"
 loaded_model.load_weights(filepath2)
 print("Loaded model from disk")
 
-loaded_model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
 
 def getx_text():
      x_test=np.array([input()])
 
 getx_text()
-x_test=x_test.reshape(1,11,11,1)
 
-y_pred=model.predict_classes(x_test)
 
 if(y_pred==0):
 	print("Not Depressed  ")
