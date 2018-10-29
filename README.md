@@ -26,9 +26,9 @@ As depressed people behave differently from normal people which can be detected 
 Is to develop an ML model which will predict if a person is suffering from depression or not using audio, visual and text features.<br>
 # Data <br>
 ## Description:<br>
-For Audio Analysis:<br>
+For <b>Audio Analysis:</b><br>
 Data has been taken from DAIC-WOZ database which contains 189 clinical interviews b/w the patient and virtual interviewer Ellie. <br>
-For Text Analysis:<br>
+For<b> Text Analysis:</b><br>
 Twitter Sentiment Analysis Dataset has been taken.<br>
 
 ## Data Pre-processing <br>
@@ -47,4 +47,5 @@ Finally we pass these into the Convolution Neural Network.<br>
 ## Text Analysis:<br>
 Twitter sentiment dataset is taken and with the help of the natural language processing the classification is done and the emotion of the speech is classified.
 
-
+## Results:<br>
+The accuracy of 81% has been achieved overall .
