@@ -49,3 +49,7 @@ Twitter sentiment dataset is taken and with the help of the natural language pro
 
 ## Results:<br>
 The accuracy of 81% has been achieved overall .
+<b> Installation part</b> <br>
+1.git clone the repository
+2.run python install.py
+3. run python interviewer.py
